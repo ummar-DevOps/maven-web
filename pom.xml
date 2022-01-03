@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Remote Repo </name>
-	      <url>http://3.109.213.216:8081/repository/stand-repo/</url>
+	      <name>Webapp Release </name>
+	      <url>http://13.234.111.11:8081/repository/webapp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Remote Repo Snapshot </name>
-	      <url>http://3.109.213.216:8081/repository/stand-repo-snap/</url>
+	      <name>Webapp Snapshot </name>
+	      <url>http://13.234.111.11:8081/repository/webapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
