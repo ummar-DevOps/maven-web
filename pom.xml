@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Webapp Release </name>
-	      <url>http://13.234.111.11:8081/repository/webapp-release/</url>
+	      <url>http://13.232.8.15:8081/repository/webapp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Webapp Snapshot </name>
-	      <url>http://13.234.111.11:8081/repository/webapp-snapshot/</url>
+	      <url>http://13.232.8.15:8081/repository/webapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
